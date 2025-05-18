@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o Guilherme Nabor</h1>
-<p align="center">Desenvolvedor de Software | Python, Java, Node.js | <a href="https://www.linkedin.com/in/guilherme-nabor/">LinkedIn</a></p>
+<p align="center">Desenvolvedor de Software | Python, Java, Node.js</p>
 
 ---
 
